@@ -3,58 +3,52 @@
 
   <channel>
 
-    <title>podCast411</title>
-    <description>The 411 on podCasts, podCasters and podcasting</description>
-    <link>http://www.podcast411.com</link>
+    <title>Mindful Mormons</title>
+    <description>Mindful Mormons is a podcast that tries to bridge the gap between LDS people and non-LDS people who live in the state of Utah</description>
+    <link></link>
     <language>en-us</language>
-    <copyright>Copyright 2007</copyright>
-    <lastBuildDate>Sat, 25 Mar 2006 11:30:00 -0500</lastBuildDate>
-    <pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
-    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <copyright>Copyright 2018</copyright>
+    <lastBuildDate>Fri, 14 Sep 2018 11:50:00 -0500</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2018 11:50:00 -0500</pubDate>
+    <docs></docs>
     <webMaster>rob@podcast411.com</webMaster>
 
-    <itunes:author>rob @ podcast411</itunes:author>
-    <itunes:subtitle>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting </itunes:subtitle>
-    <itunes:summary>podCast411 is a show about interviewing other Podcasters, similar to Inside the Actors Studio except for Podcasting.  Each show we interview a different Podcaster to find out what Podcasts they are listening to, what their show is about, what they are using to create their Podcast and what advice they have for other Podcasters or those looking to become a Podcaster.  Plus we have news, notes and tech tips for Podcasting. </itunes:summary>
+    <itunes:author>Shaun Belliston</itunes:author>
+    <itunes:subtitle>Mindful Mormons is a podcast that tries to bridge the gap between LDS people and non-LDS people who live in the state of Utah</itunes:subtitle>
+    <itunes:summary>Mindful Mormons is a podcast that tries to bridge the gap between LDS people and non-LDS people who live in the state of Utah</itunes:summary>
 
     <itunes:owner>
-           <itunes:name>Rob W</itunes:name>
-           <itunes:email>rob@podcast411.com</itunes:email>
+           <itunes:name>Shaun Belliston</itunes:name>
+           <itunes:email>shaun.d.belliston@gmail.com</itunes:email>
     </itunes:owner>
 
 <itunes:explicit>No</itunes:explicit>
 
-<itunes:image href="http://www.podcast411.com/img/411_itunes.jpg"/>
+<itunes:image href="https://github.com/shaundb2019/mindfulMormonPodcast/blob/master/_8102993-2.jpg?raw=true"/>
 
-<itunes:category text="Technology">
-     <itunes:category text="Podcasting"/>
+<itunes:category text="Social Commentary">
+     <itunes:category text="Commentary"/>
 </itunes:category>
 
 <!-- This is the data for a podcast -->
 <!-- you'll need to copy/past this item section for each new episode that you make -->
 
 <item>
-<title>411 Item 138 ZedCast with Bruce Murray - Voicemail line 206-666-4357 </title>
-<link>http://podcast411.com/forums/viewtopic.php?t=451</link>
-<guid>http://media.libsyn.com/media/podcast411/411_060325.mp3</guid>
-<description> Welcome to the show it is March 25th and this is our 138th
-   show.  Today will be an interview with Bruce Murray from the Zedcast
-   podcast. Please visit this podcast at http://www.zedcast.com/ </description>
-<enclosure url="http://media.libsyn.com/media/podcast411/411_060325.mp3" length="11779397" type="audio/mpeg"/>
+<title>Episode 1</title>
+<link></link>
+<guid>https://github.com/shaundb2019/mindfulMormonPodcast/blob/master/Podcast%201%20-%209:14:18%2C%208.47%20PM.mp3?raw=true</guid>
+<description>Shaun and Arrio discuss the benefits of mindfulness and the tendency of the Utah Latter-Day Saint community to isolate its fellow non-LDS community members.</description>
+<enclosure url="https://github.com/shaundb2019/mindfulMormonPodcast/blob/master/Podcast%201%20-%209:14:18%2C%208.47%20PM.mp3?raw=true" length="90429987" type="audio/mpeg"/>
 <category>Podcasts</category>
-<pubDate>Sat, 25 Mar 2006 11:30:00 -0500</pubDate>
+<pubDate>Social Commentary</pubDate>
 
-<itunes:author>Rob @ podCast411</itunes:author>
+<itunes:author>Shaun Belliston</itunes:author>
 
 <itunes:explicit>No</itunes:explicit>
-<itunes:subtitle>Welcome to the show it is March 25th and this is our 138th
-   show.  Today will be an interview with Bruce Murray from the Zedcast
-   podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:subtitle>
-<itunes:summary> Welcome to the show it is March 25th and this is our
-   138th show.  Today will be an interview with Bruce Murray from the
-   Zedcast podcast. Please visit this podcast at http://www.zedcast.com/ </itunes:summary>
-<itunes:duration>00:24:30</itunes:duration>
-<itunes:keywords>podCast411, podcast, podcasting, podcaster, Interviews, Bruce Murray, Zedcast</itunes:keywords>
+<itunes:subtitle>Shaun and Arrio discuss the benefits of mindfulness and the tendency of the Utah Latter-Day Saint community to isolate its fellow non-LDS community members.</itunes:subtitle>
+<itunes:summary>Shaun and Arrio discuss the benefits of mindfulness and the tendency of the Utah Latter-Day Saint community to isolate its fellow non-LDS community members.</itunes:summary>
+<itunes:duration>01:34:12</itunes:duration>
+<itunes:keywords>Social Commentary</itunes:keywords>
 
 </item>
 
