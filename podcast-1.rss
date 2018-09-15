@@ -26,7 +26,9 @@
 
 <itunes:image href="https://github.com/shaundb2019/mindfulMormonPodcast/blob/master/_8102993-2.jpg?raw=true"/>
 
-<itunes:category text="Social Commentary"></itunes:category>
+<itunes:category text="Society & Culture">
+     <itunes:category text="Philosophy"/>
+</itunes:category>
 
 <!-- This is the data for a podcast -->
 <!-- you'll need to copy/past this item section for each new episode that you make -->
